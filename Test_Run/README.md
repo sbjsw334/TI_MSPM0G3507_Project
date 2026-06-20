@@ -20,11 +20,11 @@
 
 | 功能 | 引脚 | 说明 |
 | --- | --- | --- |
-| 左电机 PWM | PA16 | TIMA1 CCP1 |
+| 左电机 PWM | PB1 | TIMA1 CCP1 |
 | 左电机 DIR1 | PA12 | AIN1 |
 | 左电机 DIR2 | PA13 | AIN2 |
 | 使能 STBY | PA17 | 高电平有效 |
-| 右电机 DIR1 | PA14 | BIN1 |
+| 右电机 DIR1 | PB13 | BIN1 |
 | 右电机 DIR2 | PA15 | BIN2 |
 | 右电机 PWM | PA22 | TIMA0 CCP1 |
 
